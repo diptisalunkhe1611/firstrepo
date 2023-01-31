@@ -3,6 +3,6 @@ void m1{
 //line of code
 }
 void m2{
-//line of code
+sys.out.print
 }
 }
